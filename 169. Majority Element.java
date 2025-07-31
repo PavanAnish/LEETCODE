@@ -15,6 +15,7 @@ class Solution {
                     temp=count;
                     majority=nums[i];
                 }               
-        }return majority;
+        }
+        return majority;
     }
 }
